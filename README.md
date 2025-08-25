@@ -31,11 +31,11 @@ This academic project from **POGL course** is a C++ project using OpenGL 4.5 to 
 
 ## Project Structure
 
-.
-├── Makefile
-├── README.md
-├── shaders/ # GLSL shaders for comets, particles, stars, and axes
-└── src/ # C++ source files
+.  
+├── Makefile  
+├── README.md  
+├── shaders/ # GLSL shaders for comets, particles, stars, and axes  
+└── src/ # C++ source files  
 
 ---
 
