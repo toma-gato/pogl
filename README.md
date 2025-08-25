@@ -42,8 +42,8 @@ This academic project from **POGL course** is a C++ project using OpenGL 4.5 to 
 ## How to Build
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd CometScene
+   git clone git@github.com:toma-gato/pogl.git
+   cd pogl
     ```
 
 2. Build using Make:
